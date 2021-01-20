@@ -1,0 +1,2 @@
+Esta es la historia de Emmanuel con 34 años aprendiendo Git
+Acabo de borrar una versión mala y renombrar la buena, además de crear un versión en la nueva.
